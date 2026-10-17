@@ -8,7 +8,6 @@
 ![Dependencies](https://img.shields.io/badge/core%20deps-none-brightgreen?style=for-the-badge)
 ![Tests](https://img.shields.io/badge/tests-17%20passing-success?style=for-the-badge)
 ![Status](https://img.shields.io/badge/status-working%20prototype-orange?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 </div>
 
@@ -201,9 +200,5 @@ Medical-Symptom-Triage-Prototype/
 ## Tech stack
 
 Python 3.9+ (standard library for the core) · optional Streamlit UI · zero core dependencies.
-
-## License
-
-MIT — see [LICENSE](LICENSE).
 
 <div align="center"><sub>Built by Nishant Das · a learning project, kept honest on purpose.</sub></div>
